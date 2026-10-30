@@ -1,5 +1,7 @@
 # Photosite
 
+***Notice:*** Although tested and working this is still in its infancy and has not been widely tested in a wide array of situations or use-cases. **Additions and revisions are immanent**.
+ 
 **An OpenColorIO configuration that previews scene-linear CGI as a real stills camera would photograph it.**
 
 Photosite adds photographic views to the stock ACES 2.0 OCIO configuration. Pick a display and a view, and your render is
